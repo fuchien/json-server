@@ -1,8 +1,8 @@
 {
     "posts": [
         {
-            "id": 1,
-            "title": "hello"
+            "credit": 12000,
+            "debt": 500
         }
     ],
     "profile": {
